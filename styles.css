@@ -3,7 +3,7 @@
 .holder{
 	display:flex;
 	justify-content:center;
-	align-content: center;
+	align-items: center;
 }
 .item-1{
 	height:100px;
@@ -11,4 +11,5 @@
 	background-color:red;
 	font-size:40px;
 	color:white;
+	align-items: center;
 }
